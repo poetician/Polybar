@@ -1,3 +1,3 @@
 # Polybar
 
-This is the Polybar I use with the Raspberry Plants theme. If I decide to consolidate i3, Jgmenu, and Polybar configs, then this repo will be obsoleted.
+Default launch.sh remains in the collection, though the following: bspwm-start.sh, herbie-start.sh, and polybar-start.sh (all of which need to be renamed) launch the top/main Polybar on both my monitors, but the bottom/extra bar only on secondary.
