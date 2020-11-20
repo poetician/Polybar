@@ -4,10 +4,9 @@
 # Procedure
 # Surf to https://openweathermap.org/city
 # Fill in your CITY
-# e.g. Antwerp Belgium
-# Check url
-# https://openweathermap.org/city/2803138
-# you will the city code at the end
+# Check the url
+# https://openweathermap.org/city/1234567
+# you will see the city code at the end
 # create an account on this website
 # create an api key (free)
 # LANG included thanks to krive001 on discord
@@ -15,7 +14,7 @@
 
 import requests
 
-CITY = "2803138"
+CITY = "1234567"
 API_KEY = "756edce7e9d4c385ef9499a53492678c"
 UNITS = "Metric"
 UNIT_KEY = "C"
